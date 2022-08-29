@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Ajay V Hegde",
+    "occupation": "Graduate Student in Computer Science",
+    "description": "I did my undergraduate in Computer Science from Manipal Institute of Technology, India with a minor in Network and Security.",
+    "image": "Ajay_Hegde.jpg",
+    "bio": "I am a first year Graduate Computer Science Student at SBU. I am particularly inclined towards Systems and Security. Interested in building resilient, secure systems that meet technological demand. I aim to work towards developing consumer products with resource-constrained innovations.",
+    "contactmessage": "Please contact if you would like to hire or get in touch with me.",
+    "email": "avhegde@cs.stonybrook.edu",
+    "phone": "631-542-3402",
+    "address": {
+      "street": "Chapin K1164, 700 Health Sciences Drive,",
+      "city": "Stony Brook",
+      "state": "NY",
+      "zip": "11790"
+    },
+    "resumedownload": "Ajay_Hegde_Resume2.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hegdeajay",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ajay_hegde06",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ajay-hegde/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ajay_hegde06/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ajayhegde96",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of the Languages and Tools I have worked on",
+    "education": [
+      {
+        "school": "Stony Brook University",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "Expected August 2024",
+        "description": "Relevant Coursework: Distributed Systems, Analysis of Algorithms"
+      },
+      {
+        "school": "Manipal Institute of Technology",
+        "degree": "Bachelor of Technology in Computer Science",
+        "graduated": "July 2019",
+        "description": "Relevant Coursework: Data Structures, Algorithms, Software Engineering, Computer Networks, Operating Systems, Distributed Systems, Information Security"
+      }
+    ],
+    "work": [
+      {
+        "company": "Western Digital Corporation (Sandisk)",
+        "title": "Senior Software Development Engineer, Software Tools ",
+        "years": "Mar 2021 - Jul 2022",
+        "description": [
+        "• Developed a C++ middleware framework for controller and firmware validation of SD protocol-based product that is utilized by firmware and device validation teams all around the world. Exposed APIs and features in Python through wrappers using Boost.\n",
+        "• Solely responsible for features like SD Command Queue, Secure Firmware download and SD Host Log. Redesigned command structures to make them platform agnostic. Worked on critical features such as model simulation support, data tracking and different tools integration.\n",
+        "• Designed a novel solution for creating a command queue structure utilized across different storage protocols.\n",
+        "• Made an innovative submission to utilize wasted heat in various storage products in order to delay the device throttling and sustain performance for a longer duration.\n",
+        "• Received We-Collaborate, We-Are-Customer-Centric, and We-Deliver-Excellence awards in the org.\n"]
+      },
+      {
+        "company": "Western Digital Corporation (Sandisk)",
+        "title": "Engineer, Firmware Engineering, Enterprise SSD",
+        "years": "Jan 2019 - Feb 2021",
+        "description": [
+        "• Designed and implemented Firmware hooks to simulate and speed up Firmware behaviour and scenarios\n",
+        "• Spearheaded validation of TCG storage SIIS features and enhanced existing security validation libraries.\n",
+        "Contributed to power failure validation and error injection scenarios for Flash Translation Layer modules on NVMe based Zoned Namespace SSDs.\n",
+        "• Implemented 175+ tests and achieved 95% feature coverage, 70% end to end functional test coverage for the Internal File System module. Expedited bug resolution and recommended efficient coding guidelines which led to 60% reduction of script issues.\n"]
+      },
+      {
+        "company": "ADVA Optical Networking",
+        "title": "Research & Development Intern",
+        "years": "May 2018 - July 2018",
+        "description": [
+        "• Devised SNMP trap receiver and system log collector tools for the Ensemble solution at ADVA for the in-house OpenDaylight-based SDN controller. This reduced turnaround time to root cause bugs from weeks to few hours.\n",
+        "• Boosted Performance by 20% through a multithreaded asynchronous wrapper implemented over the synchronous SNMP trap.\n",
+        "• Technologies used: Java, Eclipse IDE, Karaf, Maven, Postman, YANG, Opendaylight.\n" ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "80%"
+      },
+      {
+        "name": "Golang",
+        "level": "60%"
+      },
+      {
+        "name": "Visual Studio",
+        "level": "70%"
+      },
+      {
+        "name": "STL",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Windbg",
+        "level": "55%"
+      },
+      {
+        "name": "NVMe",
+        "level": "75%"
+      },
+      {
+        "name": "SD Protocol",
+        "level": "75%"
+      },
+      {
+        "name": "TCG Storage",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+
+    ]
+  }
+
+}
